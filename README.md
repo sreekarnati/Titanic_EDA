@@ -1,6 +1,6 @@
 **🚢 Titanic Dataset — Exploratory Data Analysis (EDA)**
 
-****Author**:** Sree Karnati
+**Author**: Sree Karnati
 **Project:** Titanic Survival Exploration
 T**ools Used:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
@@ -20,11 +20,11 @@ The analysis includes data cleaning, visualizations, and insights.
 
 
 Titanic_EDA/
-|
-|-- Titanic_EDA.ipynb # Main analysis notebook
-|-- README.md # Documentation
-|-- dataset/
-| |-- train.csv # Dataset file
+│
+├── Titanic_EDA.ipynb        # Main analysis notebook
+├── README.md                # Documentation
+└── dataset/
+    └── train.csv            # Dataset file
 
 ## 🔍 Key Insights
 
