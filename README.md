@@ -18,14 +18,15 @@ The analysis includes data cleaning, visualizations, and insights.
 
 ## 📂 Project Structure
 
-'''
+```md
 Titanic_EDA/
 │
 ├── Titanic_EDA.ipynb        # Main analysis notebook
 ├── README.md                # Documentation
 └── dataset/
     └── train.csv            # Dataset file
-'''
+```
+
 
 ## 🔍 Key Insights
 
