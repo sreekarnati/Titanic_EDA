@@ -8,23 +8,23 @@ T**ools Used:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 This project performs Exploratory Data Analysis (EDA) on the famous Titanic dataset.
 The goal is to understand the factors that influenced passenger survival, including:
 
--Passenger class
--Gender
--Age
--Fare
--Embarkation port
+- Passenger class
+- Gender
+- Age
+- Fare
+- Embarkation port
 
 The analysis includes data cleaning, visualizations, and insights.
 
 ## 📂 Project Structure
 
-Titanic_EDA/
-│
-├── Titanic_EDA.ipynb # Main Jupyter Notebook with full analysis
-├── README.md # Project documentation
-└── dataset/
-└── train.csv # Titanic dataset used for analysis
 
+Titanic_EDA/
+|
+|-- Titanic_EDA.ipynb # Main analysis notebook
+|-- README.md # Documentation
+|-- dataset/
+| |-- train.csv # Dataset file
 
 ## 🔍 Key Insights
 
